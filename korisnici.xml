@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<?xml-stylesheet type="text/css" href="css/xmlStil.css"?>
+
+<korisnici>
+	<korisnik pol="M" >
+		<ime>Petar</ime>
+		<prezime>Petrovic</prezime>
+		<email>petrovic@nesto.com</email>
+		<lozinka>pera123</lozinka>
+		<potvrdalozinke>pera123</potvrdalozinke>
+		<datumrodjenja>
+			<dan>12</dan>
+			<mesec>12</mesec>
+			<godina>1981</godina>
+		</datumrodjenja>
+	
+	</korisnik>
+	<korisnik pol="Z" >
+		<ime>Jelica</ime>
+		<prezime>Vesic</prezime>
+		<email>vesic@nesto.com</email>
+		<lozinka>jelica222</lozinka>
+		<potvrdalozinke>jelica222</potvrdalozinke>
+		<datumrodjenja>
+			<dan>05</dan>
+			<mesec>11</mesec>
+			<godina>1991</godina>
+		
+		</datumrodjenja>
+	
+	</korisnik>
+
+
+</korisnici>
+
+
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+	<chanel>
+		<title>Vesti-obavestenja-Recordsstudio</title>
+		<link>http://www.jedinstvenistudio.com/rss.xml</link>
+		<description>opis vesti namenjene za odedjenu stranicu</description>
+		<copyright>Copyright 2017-2018,Records.net</copyright>
+		<pubdate>Pet,07 Dec 2018 15:00</pubdate>
+		<category>Text</category>
+		<webMaster>admin@records.com</webMaster>
+		<language>sr</language>
+
+		<item>
+		<title>O Records muz studiu</title>
+		<link>http://www.jedinstvenistudio.com/onama.html</link>
+		<description>O records muzickom studi-u
+KVALITETNE LEKCIJE. ISKUSNI MUZICARI.
+Nas tim strucnjaka pomoci ce vam da svoj san stvaranja pesme pretvorite u realnost.Mi imamo pravu stvar za vas.
+Kombinujući usluge snimanja muzike sa muzičkom instrukcijom, Records muzicki studio donosi vam puno muzičko iskustvo. Uronite se u toliko ili manje profesionalnog iskustva muzičara koliko želite!
+Nudimo gitarske, bas,klavirske, bubnjeve i glasovne lekcije. Takođe obučavamo pjesmu i muzičku produkciju za srednje i profesionalne muzičare. Bez obzira da li upravo počinjete ili tražite neke napredne savete, pustite Rekords muzički studio da vas mentori.
+Naučite kako da praktikujete i čitate muziku, kroz poznate pjesme i narodne melodije. Studenti ce izabrati glavni instrument fokusa i dobiti osnovnu kompetenciju u Guitar, Klavir i Glas. Savršen za novinare, sa malo iskustva.</description>
+		<pubdate>Pet,07 Dec 2018 15:00</pubdate>
+		</item>
+		
+	</chanel>
+</rss>
